@@ -1,0 +1,3 @@
+check out chaser_point....they are all quite slow 
+
+have done to 3....

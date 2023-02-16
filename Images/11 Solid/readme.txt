@@ -1,0 +1,1 @@
+Patterns with an attached ini file are motion reactive.

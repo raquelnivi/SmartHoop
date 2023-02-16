@@ -1,0 +1,390 @@
+#Hyperion Hoop patterns are licensed under Creative Commons Attribution 3.0 United States (CC BY 3.0 US)
+#Details can be found here: https://creativecommons.org/licenses/by/3.0/us/
+#
+#Pattern creation credits:
+#
+#Jennifer Wagner
+#==================
+#chevron
+#color_squares
+#hounds_check_1
+#key
+#ladder_1bt
+#mandala
+#squares_1bt
+#squares_2_1bt
+#squares_color_01
+#squares_color_02
+#wavy_colors
+#
+#Gina Miranda
+#===============
+#10x10_chaser_blue_aqua
+#10x10_chaser_dirty_rainbow
+#10x10_chaser_dusk_dawn
+#10x10_chaser_fire
+#10x10_chaser_goldfish
+#10x10_chaser_pink_aqua
+#10x10_chaser_pink_green
+#10x10_chaser_rbw_1
+#10x10_chaser_safari_sky
+#10x10_chaser_sunset
+#cuttlefish
+#pony_fluttershy
+#hearts_pink_cyan.bmp
+#mario_mush_1
+#pink_cyan_purple_psy.bmp
+#pred_mush
+#psychedelic_13-21
+#psychedelic_fire
+#psychedelic_ice
+#rainbow_psy
+#red_mush
+#snake
+#
+#Scott Miller
+#=============
+#strobe_chase_3
+#chevron_spectrum
+#sine
+#skull_pixels
+#sm1
+#sonic
+#square_waves_spectrum
+#
+#Ara Kirley
+#============
+#dragon_direction_t
+#dragon_dmt
+#dragon_honeycomb
+#dragon_razr
+#spiral_rainbow
+#razr_wire
+#spiral
+#thatonefromalltheothers_p.bmp
+#
+#Joanne Tweit
+#===============
+#element_flames_blue
+#element_flames
+#elmo
+#pizza_chaser
+#
+#Cassandra King
+#=================
+#abstract_dot_diagonal
+#ankh
+#comic_bam_pow_zap
+#comic_boom
+#cheetah_blue_aqua
+#cheetah_pink_magenta
+#cheshire
+#dot_chase_4
+#hello_kitty_hooping
+#j
+#love_drip
+#stick_men_1bt
+#stick_men
+#
+#Holly Dobbs
+#==============
+#squares_bright_01
+#deadmau_5_rbw
+#spiral_double
+#mario_star_rbw
+#peace_sign_flowers
+#rainbow_flake
+#hearts_solid_rbw_1
+#hearts_solid_rbw_2
+#turtle
+
+#Natasha Dawn
+#================
+#sunset_texture_strobe
+#afkrc
+#arrow_up_2
+#atom  			from original by dreamstime.com WALEX101
+#binary_code
+#blue_orange_trip
+#blue_trip_strobe
+#bounce_teal_white
+#poke_charmander
+#burst_stars		
+#burst_trippy_crosses	
+#circles_08a 		from original by David Lewis-Baker
+#circles_08b 		from original by David Lewis-Baker
+#circles_blue_yellow_green
+#chevron_galaxy
+#color_stripe_1
+#color_stripe-3
+#diamonds_solid	
+#fish_eye
+#fish_heart
+#flowers_psychedelic
+#burst_fire_circle
+#galaxy_purple
+#galaxy_strobe_01
+#geometrix
+#ghost
+#hearts_splashes_rbw
+#interlock_lines_rbw
+#interlock_line_1
+#interlock_line_2
+#jack
+#cretan_labyrinth - 1-5 	from originals by duramecho.com
+#linked_lines
+#mario_1up
+#mario_1up
+#multi_strobe_1
+#multi_strobe_2
+#nectar_rbw
+#butterflies_rbw
+#om_rainbow_gradient
+#peace
+#peace_chaser
+#peace_sign_rainbow
+#pentagram_1
+#pentagram_2
+#planets
+#sunrise_psychedelic
+#science_wave_static_rbw
+#rainbow_stripes
+#rainbow_stripes_reactive
+#skull_painted
+#skull_trippy
+#space_purple
+#stars_blue
+#star_purple
+#teal_grid
+#
+#Emma Phibbs
+#==============
+#adventure_time - all
+#plaid_blue
+#butterflies - all
+#chase_14
+#deadmau_5 - all
+#dto_circle_texture
+#dto_texture_reverse	
+#element_flames_multi
+#grad_chaser
+#grid_rainbow_3D
+#hello_kitty_chaser
+#hello_kitty_nrg
+#hello_kitty_pastel
+#hello_kitty_rbw
+#jiggly_puff
+#knife_party
+#lattice
+#stars-spectrum/sunrise/sunsets
+#sparkles
+#stars_sunset_sparkles
+#plaid
+#pumpkin_faces
+#purple_flame
+#hello_kitty_chase
+#greek_fade_1
+#diamonds_multicolor
+#nbc_moon
+#nectar_chaser_comets	
+#nectar_dots_rainbow
+#nectar_dots_rainbow_dark
+#nectar_dots_sunset_dark
+#nectar_orange_yellow_dark
+#nectar_pink
+#nectar_sunset
+#nyan_cat_2
+#pastel_rain_waffle
+#pink_floyd
+#puff_girls
+#sci
+#snowfall
+#yoshi
+#yoshi_mush
+#3D_grid_rbw
+#xoxo
+#
+#Nicole Bruno
+#===============
+#nyan_cat
+#nyan_comet_comet
+#stars_purple_pink
+#
+#Racheal Ann Nordman
+#=======================
+#sacred_geometric
+#
+#Alfred Piper
+============
+#alfie
+#pokemon_pikachu
+#
+#Alexa Hill
+#=============
+#hooper_heart
+#
+#Jon DeFilippis
+#==================
+#alien_sparkle
+#blossom
+#bubbles
+#buttercup
+#mario_1_up_2
+#
+#Nicole Moray
+#===============
+#alien
+#
+#Hayley O'Beirne
+#==================
+#arrow_green
+#crossover
+#cubes_solid
+#earth
+#jellyfish
+#pinky_blue
+#tetris_rbw
+#waves_rbw_1
+#trance_hypnosis
+#		
+#Lane Zorich
+#=============
+#color_melt_zigzag
+#flower_neon
+#hearts_white_sparkle
+#swirl_psychedelic
+#splatter_abstract
+#
+#April Waybright
+#=================
+#dots_squares
+#neon_lines
+#
+#Melanie Elise
+#================
+#galaxy_pink_blue
+#
+#Elizabeth Hope Davis
+#======================
+#cheetah_teal_pink
+#leopard_rainbow_grad
+#geo_pastel_pattern
+#dots_rainbow_2
+#geo_rainbow
+#waves_rbw_2
+#flowing_sunset
+#floral_pattern
+#purple_mesh
+#rainbow_hearts
+#waves_gradient
+#
+#Avi Ae
+#=========
+#swirl_kisses_rbw
+#pentagram_3
+#
+#Jade Bokeland
+#================
+#aztec
+#colorful_lines_1
+#hearts_gradient_1-2
+#
+#Corinne Watson
+#=================
+#static
+#bob
+#
+#Jasmine Westergard
+#=====================
+#stripes_christmas
+#darthmaul
+#sparkle_snowflakes
+#
+#Sarah Seabolt
+#===============
+#deadbears_chaser	
+#
+#Joseph Moore
+#===============
+#patriotic_tess
+#
+#Jonathan Ondina
+#==================
+#optic_illusion_1
+#poke_pokeballs_large
+#
+#Rachel Munro
+#===============
+#rainbow_sparkle
+#
+#Jenny Mae Fox
+#=================
+#candlelabra
+#double_helix
+#double_helix_strobe
+#electric_tangle
+#eyeball
+#gd_bears - all
+#lotus_mirror
+#pokeballs_bright
+#pokeballs_chaser_4_point
+#pokeballs_dark
+#pokeballs_static_5_point
+#purple_root
+#triskelion
+#violets
+#
+#Leah Muller
+#==============	
+#firey
+#egypt_pattern
+#flowers_green
+#flowers_purple
+#galaxy_green_bubble
+#galaxy_pink_blue
+#
+#Nikki Steez
+#==============
+#snowflake
+#	
+#Bree Giordano
+#===============
+#swirl_rbw
+#
+#Taylor Impens
+#===============
+#chaser_sparkle
+#
+#Cortnye Watts
+#===============
+#ultraviolet_iso
+#
+#Laura Charles
+#==============
+#mars_venus_gradient
+#
+#Sherie Orozco
+#===============
+#emoji_heart
+#emoji_stars
+#gradient_dots
+#tetris
+#
+#Brooke Ramsay
+#================
+#flower_blossom
+#bubbles_2
+#flower_daisy
+#diamonds_blue
+#epic-eye
+#eyeballs
+#fox
+#green_waves
+#gold_purple_weird
+#illusion_burst_b_w
+#mathmatical
+#purple_pink_starburst
+#
+#Devon Beckett
+==============
+#cheshire_cat_smile
