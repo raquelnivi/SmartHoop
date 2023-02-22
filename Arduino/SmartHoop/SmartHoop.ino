@@ -11,6 +11,9 @@
 #include "PalettesAndColors.h"
 #include "Images.h"
 
+#include <Bitmap.h>
+Bitmap bitmap;
+
 IRrecv irReceiver(IR_PIN);
 IRdecodeNEC remoteDecoder;
 
@@ -26,6 +29,7 @@ int imageIndex = 0;
 int paletteIndex = 0;
 int totalMovingLeds = 0;
 int leadingLedIndex = 0;
+int imageTimer = 0;
 long movingLedDelay = 80;
 long lastMovingTime = 0;
 float deltaHue = 255/NUM_LEDS;
@@ -144,6 +148,14 @@ void showGradient(){
   }  
 }
 
+void showImage(){
+  if(((millis()-lastMovingTime)>movingLedDelay) && autoCycle){
+      nextImage();  
+      lastMovingTime = millis(); 
+  }
+  bitmap.displayRow(images[imageIndex], imageTimer);
+}
+
 void showPalette(){
   if(((millis()-lastMovingTime)>movingLedDelay) && autoCycle){   
     int firstColor = leadingLedIndex*(255/NUM_LEDS);
@@ -176,6 +188,9 @@ void lightLeds(){
   if(lightsMode==0){
     showColors();
   }
+  if(lightsMode==1){
+    showImage();   
+  }  
   if(lightsMode==2){
     showGradient();    
   }

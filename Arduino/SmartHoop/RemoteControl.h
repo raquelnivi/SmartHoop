@@ -63,6 +63,9 @@ void generalSignalsController(uint32_t signal){
       break;
     case IR_16:
       lightsMode = 1;
+      totalMovingLeds = 0;
+      autoCycle = false;
+      movingLedDelay = 800;
       break;
     case IR_18:
       lightsMode = 2;
